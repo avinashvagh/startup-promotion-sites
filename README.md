@@ -22,15 +22,15 @@ All in one place. Categorized. Sorted by Domain Rank. Ready to use.
 
 | # | Category | What's Inside | Count |
 |---|----------|--------------|-------|
-| 01 | [📂 Directories](directories/01-directories.md) | Profile & directory listings sorted by Domain Rank | 150+ |
-| 02 | [💬 Social Communities](communities/02-social-communities.md) | Reddit subs, Indie Hackers, HN, Dev.to | 35+ |
-| 03 | [✍️ Press & Publications](press/03-publications.md) | TechCrunch, GeekWire, YourStory & more | 17 |
-| 04 | [🎨 Design Showcases](design/04-design-showcases.md) | Awwwards, Behance, CSS Design Awards & more | 40+ |
-| 05 | [🚀 Launch Platforms](launch/05-launch-platforms.md) | Product Hunt, BetaList, NoonLaunch & more | 15 |
-| 06 | [🧩 Misc](misc/06-misc.md) | AppSumo, StackShare, ThingTesting & more | 10+ |
-| 07 | [📝 Writing & Publishing](content/07-writing-publishing-platforms.md) | Medium, Dev.to, HackerNoon & 40+ platforms | 40+ |
-| 08 | [🎬 Faceless YouTube Tools](content/08-faceless-youtube-tools.md) | InVideo, HeyGen, Frameloop & full workflow | 25+ |
-| 09 | [🔴 Reddit Growth Tools](reddit/09-reddit-growth-tools.md) | Redreach, F5Bot, Postpone & full stack | 20+ |
+| 01 | [📂 Directories](01-directories.md) | Profile & directory listings sorted by Domain Rank | 150+ |
+| 02 | [💬 Social Communities](02-social-communities.md) | Reddit subs, Indie Hackers, HN, Dev.to | 35+ |
+| 03 | [✍️ Press & Publications](03-publications.md) | TechCrunch, GeekWire, YourStory & more | 17 |
+| 04 | [🎨 Design Showcases](04-design-showcases.md) | Awwwards, Behance, CSS Design Awards & more | 40+ |
+| 05 | [🚀 Launch Platforms](05-launch-platforms.md) | Product Hunt, BetaList, NoonLaunch & more | 15 |
+| 06 | [🧩 Misc](06-misc.md) | AppSumo, StackShare, ThingTesting & more | 10+ |
+| 07 | [📝 Writing & Publishing](07-writing-publishing-platforms.md) | Medium, Dev.to, HackerNoon & 40+ platforms | 40+ |
+| 08 | [🎬 Faceless YouTube Tools](08-faceless-youtube-tools.md) | InVideo, HeyGen, Frameloop & full workflow | 25+ |
+| 09 | [🔴 Reddit Growth Tools](09-reddit-growth-tools.md) | Redreach, F5Bot, Postpone & full stack | 20+ |
 
 ---
 
