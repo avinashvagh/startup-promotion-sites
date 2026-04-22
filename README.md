@@ -2,8 +2,8 @@
 
 > A curated, categorized, and regularly updated list of **340+ platforms** to get your startup in front of the right people — free and paid.
 
-![GitHub Stars](https://img.shields.io/github/stars/avinashvagh/startup-promotion-sites-2026?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/avinashvagh/startup-promotion-sites-2026?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/avinashvagh/startup-promotion-sites?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/avinashvagh/startup-promotion-sites?style=social)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
