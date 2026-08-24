@@ -24,6 +24,7 @@ and grow your SaaS authentically — without getting banned.
 | IndiePilot | Intent scoring, 30 keyword tracking, AI replies, multi-business dashboard | 💰 | Paid | [Link](https://indiepilot.app) |
 | Prems | Reddit + LinkedIn + Quora + 10 platforms, AI intent scoring | 💰 | Paid | [Link](https://prems.ai) |
 | CatchIntent | Buyer intent signals on Reddit, HN & Bluesky, Slack/Discord alerts | 💰 | Paid | [Link](https://catchintent.com) |
+| OctoLoops | Thread discovery, spam-risk scoring, AI comment drafts, plus outbound & SEO loops | ✅ | Free / $29/mo | [Link](https://octoloops.com) |
 
 ---
 
