@@ -92,6 +92,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Find My AI Tool | 💰 Paid | 60 | [Link](https://findmyaitool.com/submit-tool) |
 | Apps Mirror | 💰 Paid | 60 | [Link](http://www.appsmirror.com/submit-your-app-for-review) |
 | AIAI.Tools | ✅ Free | 59 | [Link](https://aiai.tools/submit-ai-tool) |
+| SaaSCity | ✅ Free | 59 | [Link](https://saascity.io/submit) |
 | Cloud Findr | ✅ Free | 59 | [Link](https://cloudfindr.co) |
 | Ben's Bites | ✅ Free | 58 | [Link](https://news.bensbites.co) |
 | Hotfrog | ✅ Free | 58 | [Link](https://hotfrog.com) |
