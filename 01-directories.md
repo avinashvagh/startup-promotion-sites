@@ -184,6 +184,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | The Tool Bus | 💰 Paid | 31 | [Link](https://www.thetoolbus.ai/ai-tools) |
 | Alive Directory | 💰 Paid | 30 | [Link](https://alivedirectory.com) |
 | AIToolly | 💰 Paid | 30 | [Link](https://aitoolly.com/submit) |
+| MegaLaunch | ✅ Free | 30 | [Link](https://megalaun.ch) |
 | Taalk | 💰 Paid | 29 | [Link](https://taalk.com/submit-startup) |
 | PoweredbyAI | ✅ Free | 28 | [Link](https://poweredbyai.app/submit-tool) |
 | Indie Directory | 💰 Paid | 28 | [Link](https://directory.indie-starter.dev) |
