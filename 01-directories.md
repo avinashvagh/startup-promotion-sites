@@ -234,3 +234,4 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | ToolsFine | ✅ Free | 16 | [Link](https://toolsfine.com) |
 | Liaise Platform | ✅ Free | 37 | [Link](https://liaiseplatform.com) |
 | Tech Pluto | ✅ Free | 64 | [Link](https://www.techpluto.com/submit-startup/) |
+| Public Prompts | 💰 Paid: US$19.99 once plus applicable tax | Not measured | [Link](https://www.publicprompts.art/submit) |
