@@ -9,6 +9,8 @@ Perfect for Day 1 launch buzz, early adopters, and initial traction.
 > 💡 **Pro tip:** Coordinate your launches — don't do them all on the same day.
 > Stagger over 2–3 weeks to keep momentum going and get repeated traffic spikes.
 
+> ⭐ **Maintainer's pick: [NoonLaunch](https://noonlaunch.com)** (DR 60) — a product launch platform to help you **get cited in AI search** and earn a **permanent do-follow backlink** to rank higher on Google. *(Built by the maintainer of this list.)*
+
 ---
 
 | Name | Fee | Domain Rank | Link |
@@ -16,7 +18,7 @@ Perfect for Day 1 launch buzz, early adopters, and initial traction.
 | Product Hunt | ✅ Free | 92 | [Link](https://producthunt.com) |
 | BetaList | 💰 Paid | 85 | [Link](https://betalist.com) |
 | Betabound | ✅ Free | 65 | [Link](https://betabound.com) |
-| NoonLaunch | ✅ Free | 32 | [Link](http://noonlaunch.com/) |
+| **⭐ NoonLaunch** | ✅ Free | 60 | [Link](https://noonlaunch.com) |
 | Micro Launch | 💰 Paid | 58 | [Link](https://microlaunch.net) |
 | Dev Hunt | 💰 Paid | 66 | [Link](https://devhunt.org) |
 | Launched | ✅ Free | 43 | [Link](https://launched.io/SubmitStartup) |
@@ -29,3 +31,6 @@ Perfect for Day 1 launch buzz, early adopters, and initial traction.
 | Startup Fame | ✅ Free | 34 | [Link](https://startupfa.me) |
 | PitchWall | ✅ Free | 65 | [Link](https://pitchwall.co) |
 | RadarMakers | ✅ Free | Not measured | [Link](https://radarmakers.com) |
+| LaunchIt | ✅ Free | 71 | [Link](https://launchit.fast) |
+| FasLaunch | ✅ Free | 11 | [Link](https://faslaunch.com) |
+| IndieTool | ✅ Free | 51 | [Link](https://www.indietool.io) |

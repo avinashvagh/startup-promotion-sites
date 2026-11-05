@@ -26,7 +26,7 @@ All in one place. Categorized. Sorted by Domain Rank. Ready to use.
 | 02 | [💬 Social Communities](02-social-communities.md) | Reddit subs, Indie Hackers, HN, Dev.to | 35+ |
 | 03 | [✍️ Press & Publications](03-publications.md) | TechCrunch, GeekWire, YourStory & more | 17 |
 | 04 | [🎨 Design Showcases](04-design-showcases.md) | Awwwards, Behance, CSS Design Awards & more | 40+ |
-| 05 | [🚀 Launch Platforms](05-launch-platforms.md) | Product Hunt, BetaList, NoonLaunch & more | 15 |
+| 05 | [🚀 Launch Platforms](05-launch-platforms.md) | Product Hunt, BetaList, NoonLaunch & more | 19 |
 | 06 | [🧩 Misc](06-misc.md) | AppSumo, StackShare, ThingTesting & more | 10+ |
 | 07 | [📝 Writing & Publishing](07-writing-publishing-platforms.md) | Medium, Dev.to, HackerNoon & 40+ platforms | 40+ |
 | 08 | [🎬 Faceless YouTube Tools](08-faceless-youtube-tools.md) | InVideo, HeyGen, Frameloop & full workflow | 25+ |
@@ -40,6 +40,7 @@ All in one place. Categorized. Sorted by Domain Rank. Ready to use.
 |----------|----------|-----|
 | 🥇 | [Product Hunt](https://producthunt.com) | Biggest launch platform, DR 92 |
 | 🥇 | [Google Business Profile](https://google.com/business) | DR 100, instant SEO value |
+| 🥇 | [NoonLaunch](https://noonlaunch.com) ⭐ | Product launch platform to help you get cited in AI search and earn a permanent do-follow backlink to rank higher on Google (DR 60) |
 | 🥇 | [Hacker News – Show HN](https://news.ycombinator.com/showhn.html) | High-quality tech audience |
 | 🥇 | [Dev.to](https://dev.to) | Free content republishing, huge dev audience |
 | 🥇 | [F5Bot](https://f5bot.com) | Free Reddit monitoring, 2-min setup |
@@ -47,8 +48,6 @@ All in one place. Categorized. Sorted by Domain Rank. Ready to use.
 | 🥈 | [Indie Hackers](https://indiehackers.com) | Best community for founders |
 | 🥈 | [Alternative To](https://alternativeto.net) | Captures competitor traffic |
 | 🥈 | [G2](https://g2.com) | DR 93, SaaS buyers trust this |
-| 🥈 | [NoonLaunch](https://noonlaunch.com) | Fast-growing launch platform |
-
 ---
 
 ## 🗺️ How to Use This List
@@ -103,7 +102,7 @@ Don't launch everywhere on the same day. Stagger over 3–4 weeks to maintain mo
 | Social Communities | 35+ |
 | Press & Publications | 17 |
 | Design Showcases | 40+ |
-| Launch Platforms | 15 |
+| Launch Platforms | 19 |
 | Misc | 10+ |
 | Writing & Publishing | 40+ |
 | YouTube Tools | 25+ |

@@ -90,6 +90,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | MaRS DD | ✅ Free | 61 | [Link](https://app.marsdd.com/companies) |
 | Indie Page | 💰 Paid | 61 | [Link](https://indiepa.ge) |
 | Tiny Launch | ✅ Free | 61 | [Link](https://www.tinylaun.ch) |
+| **⭐ NoonLaunch** | ✅ Free | 60 | [Link](https://noonlaunch.com) |
 | Find My AI Tool | 💰 Paid | 60 | [Link](https://findmyaitool.com/submit-tool) |
 | Apps Mirror | 💰 Paid | 60 | [Link](http://www.appsmirror.com/submit-your-app-for-review) |
 | AIAI.Tools | ✅ Free | 59 | [Link](https://aiai.tools/submit-ai-tool) |
@@ -174,7 +175,6 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Apprater | ✅ Free | 34 | [Link](https://apprater.net/add) |
 | 1000.tools | 💰 Paid | 33 | [Link](https://1000.tools) |
 | TYY | 💰 Paid | 33 | [Link](https://tyy.ai/submit) |
-| NoonLaunch | ✅ Free | 32 | [Link](https://noonlaunch.com) |
 | Directory World | 💰 Paid | 32 | [Link](https://directoryworld.net) |
 | Tekpon | 💰 Paid | 32 | [Link](https://tekpon.com) |
 | AI Tools Explorer | 💰 Paid | 32 | [Link](https://aitoolsexplorer.com/submit-ai-tool) |
@@ -218,6 +218,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Mr. Free Tools | ✅ Free | 22 | [Link](https://mrfreetools.com) |
 | Lachief.io | ✅ Free | 22 | [Link](https://lachief.io) |
 | AImojo | 💰 Paid | 22 | [Link](https://aimojo.io/submit/) |
+| DirPilot | ✅ Free | 22 | [Link](https://dirpilot.com/tools/submit) |
 | AI Tool Guru | ✅ Free | 21 | [Link](https://aitoolguru.com/submit-ai-tool) |
 | AI Tools | ✅ Free | 21 | [Link](https://aitools.lol) |
 | AI Best Top | ✅ Free | 20 | [Link](https://www.aibesttop.com) |
@@ -232,6 +233,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Gpts Hunter | ✅ Free | 17 | [Link](https://gptshunter.com) |
 | Awesome Indie | ✅ Free | 17 | [Link](https://awesomeindie.com) |
 | ToolsFine | ✅ Free | 16 | [Link](https://toolsfine.com) |
+| VegaReview | 💰 Paid | 10 | [Link](https://vegareview.com) |
 | Liaise Platform | ✅ Free | 37 | [Link](https://liaiseplatform.com) |
 | Tech Pluto | ✅ Free | 64 | [Link](https://www.techpluto.com/submit-startup/) |
 | Public Prompts | 💰 Paid: US$19.99 once plus applicable tax | Not measured | [Link](https://www.publicprompts.art/submit) |
