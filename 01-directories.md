@@ -80,6 +80,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Tapscape | 💰 Paid | 65 | [Link](http://www.tapscape.com/submit-app-re) |
 | Tap4 AI | 💰 Paid | 65 | [Link](https://tap4.ai/submit) |
 | Woy.ai | 💰 Paid | 64 | [Link](https://woy.ai/submit) |
+| SaaSCity | ✅ Free | 64 | [Link](https://saascity.io/submit) |
 | Popular AI Tools | 💰 Paid | 63 | [Link](https://www.popularaitools.ai/submit-a-tool) |
 | Foundr | ✅ Free | 63 | [Link](https://foundr.ai) |
 | AI Library | ✅ Free | 62 | [Link](https://library.phygital.plus/tool-submission) |
