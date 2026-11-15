@@ -34,3 +34,4 @@ Perfect for Day 1 launch buzz, early adopters, and initial traction.
 | LaunchIt | ✅ Free | 71 | [Link](https://launchit.fast) |
 | FasLaunch | ✅ Free | 11 | [Link](https://faslaunch.com) |
 | IndieTool | ✅ Free | 51 | [Link](https://www.indietool.io) |
+| Awesome Indie | ✅ Free | 41 | [Link](https://awesomeindie.com) |
