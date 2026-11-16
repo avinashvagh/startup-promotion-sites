@@ -61,6 +61,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | All Top Startups | 💰 Paid | 73 | [Link](https://alltopstartups.com/directory/submit-startup/) |
 | Side Projectors | ✅ Free | 73 | [Link](https://sideprojectors.com) |
 | Crowd Reviews | ✅ Free | 72 | [Link](https://crowdreviews.com) |
+| TheSaaSDir | ✅ Free | 71 | [Link](https://thesaasdir.com/submit/) |
 | Toolify.ai | 💰 Paid | 70 | [Link](https://www.toolify.ai/submit) |
 | Future Tools | ✅ Free | 70 | [Link](https://www.futuretools.io/submit-a-tool) |
 | Somuch | 💰 Paid | 70 | [Link](https://somuch.com) |
@@ -100,6 +101,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | No Code Founders | ✅ Free | 58 | [Link](https://nocodefounders.com) |
 | AI Tool Mall | 💰 Paid | 58 | [Link](https://aitoolmall.com/submit) |
 | Powerusers AI | 💰 Paid | 58 | [Link](https://powerusers.ai/submit-ai-tool) |
+| TheAIToolsDir | ✅ Free | 57 | [Link](https://theaitoolsdir.com/submit/) |
 | Abi Logic | 💰 Paid | 56 | [Link](https://abilogic.com) |
 | EZLocal | ✅ Free | 56 | [Link](https://ezlocal.com) |
 | promoteproject | ✅ Free | 55 | [Link](https://promoteproject.com/submit-startup) |
@@ -113,6 +115,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | Five Taco | ✅ Free | 53 | [Link](https://fivetaco.com) |
 | DokeyAI | 💰 Paid | 53 | [Link](https://dokeyai.com/submit) |
 | AlterOpen | 💰 Paid | 52 | [Link](https://alteropen.com) |
+| TheDevToolsDir | ✅ Free | 52 | [Link](https://thedevtoolsdir.com/submit/) |
 | AI Top Tools | 💰 Paid | 51 | [Link](https://aitoptools.com/account/submit-tool) |
 | AI ToolBoard | ✅ Free | 51 | [Link](https://aitoolboard.com/submit-ai-tool) |
 | Stork | ✅ Free | 50 | [Link](https://www.stork.ai) |
@@ -159,6 +162,7 @@ Sorted by Domain Rank (highest first). ✅ = Free | 💰 = Paid
 | AI Parabellum | 💰 Paid | 39 | [Link](https://aiparabellum.com/submit-your-ai-tool) |
 | BAI | ✅ Free | 38 | [Link](https://bai.tools/submit-ai-tools) |
 | Startups.fm | ✅ Free | 38 | [Link](https://www.startups.fm) |
+| IndieLineup | ✅ Free | 38 | [Link](https://indielineup.com/submit/) |
 | Apps and Websites | ✅ Free | 37 | [Link](https://appsandwebsites.com) |
 | AI Tool Mate | 💰 Paid | 37 | [Link](https://aitoolmate.com) |
 | Free AI Apps | 💰 Paid | 37 | [Link](https://freeappsai.com/add) |
